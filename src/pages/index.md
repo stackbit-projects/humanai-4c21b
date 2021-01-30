@@ -19,7 +19,7 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image: 'images/rs=h_1000,cg_true,m.jpeg'
+      - image: images/beige-lime.jpeg
         image_alt: Gatsby logo
         image_align: center
       - title: lorem-ipsum
