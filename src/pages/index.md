@@ -12,7 +12,7 @@ sections:
     media_width: fifty
     align: center
     padding_top: none
-    padding_bottom: large
+    padding_bottom: none
     background_color: none
   - type: grid_section
     title: Image Grid
