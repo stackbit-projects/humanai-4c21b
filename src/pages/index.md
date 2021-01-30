@@ -19,7 +19,7 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image: images/logo-3.svg
+      - image: 'images/rs=h_1000,cg_true,m.jpeg'
         image_alt: Gatsby logo
         image_align: center
     grid_cols: two
