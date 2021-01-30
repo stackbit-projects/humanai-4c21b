@@ -16,7 +16,7 @@ sections:
     background_color: none
   - type: grid_section
     title: ''
-    subtitle: Grid Section Example
+    subtitle: ''
     align: center
     grid_items:
       - image_alt: Contentful logo
