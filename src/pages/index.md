@@ -28,8 +28,6 @@ sections:
         image_align: center
       - image_alt: Gridsome logo
         image_align: center
-      - image_alt: Git logo
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
