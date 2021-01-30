@@ -8,7 +8,7 @@ sections:
     actions: []
     image: images/humanAi.jpeg
     image_alt: ''
-    media_position: left
+    media_position: top
     media_width: fifty
     align: center
     padding_top: none
