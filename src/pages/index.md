@@ -19,8 +19,6 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image_alt: Netlify logo
-        image_align: center
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
