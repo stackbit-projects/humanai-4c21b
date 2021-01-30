@@ -14,7 +14,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-  - title: lorem-ipsum
+  - title: ''
     subtitle: ''
     actions: []
     grid_items: []
