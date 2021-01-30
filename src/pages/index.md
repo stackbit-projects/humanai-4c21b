@@ -15,7 +15,7 @@ sections:
     padding_bottom: none
     background_color: none
   - type: grid_section
-    title: Image Grid
+    title: ''
     subtitle: Grid Section Example
     align: center
     grid_items:
