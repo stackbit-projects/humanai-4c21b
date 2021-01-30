@@ -71,11 +71,6 @@ sections:
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: primary
-    title: ''
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
