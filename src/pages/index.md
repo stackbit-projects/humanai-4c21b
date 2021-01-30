@@ -5,10 +5,7 @@ sections:
     title: ''
     subtitle: ''
     content: ''
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/humanAi.jpeg
     image_alt: ''
     media_position: left
