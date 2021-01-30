@@ -24,8 +24,6 @@ sections:
         image_align: center
       - image_alt: Sanity logo
         image_align: center
-      - image_alt: Next.js logo
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
